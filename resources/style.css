@@ -32,7 +32,3 @@ p {
 footer {
   text-align: right;
 }
-.hero video {
-  display: block;
-  margin: calc(1rem * 1.5) auto;
-}
